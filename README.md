@@ -1,0 +1,2 @@
+# mindnote
+Backup for mindnode
